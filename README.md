@@ -259,9 +259,3 @@ Same interfaces as the [portfolio case study](https://francescoiaforte.vercel.ap
 ## Source code
 
 Commercial product; source is private. This repository is the public engineering case study.
-
-## Links
-
-- [Interactive case study](https://francescoiaforte.vercel.app/en/projects/ai-operations-hub)
-- [GitHub profile](https://github.com/francescoveryra-dot)
-- [Portfolio](https://francescoiaforte.vercel.app)
